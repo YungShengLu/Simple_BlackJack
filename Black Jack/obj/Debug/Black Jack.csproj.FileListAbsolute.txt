@@ -1,0 +1,22 @@
+c:\users\ncku\documents\visual studio 2015\Projects\Black Jack\Black Jack\bin\Debug\Black Jack.exe.config
+c:\users\ncku\documents\visual studio 2015\Projects\Black Jack\Black Jack\bin\Debug\Black Jack.exe
+c:\users\ncku\documents\visual studio 2015\Projects\Black Jack\Black Jack\bin\Debug\Black Jack.pdb
+c:\users\ncku\documents\visual studio 2015\Projects\Black Jack\Black Jack\obj\Debug\Black Jack.csprojResolveAssemblyReference.cache
+c:\users\ncku\documents\visual studio 2015\Projects\Black Jack\Black Jack\obj\Debug\Black_Jack.Form1.resources
+c:\users\ncku\documents\visual studio 2015\Projects\Black Jack\Black Jack\obj\Debug\Black_Jack.Properties.Resources.resources
+c:\users\ncku\documents\visual studio 2015\Projects\Black Jack\Black Jack\obj\Debug\Black_Jack.Resource.resources
+c:\users\ncku\documents\visual studio 2015\Projects\Black Jack\Black Jack\obj\Debug\Black Jack.csproj.GenerateResource.Cache
+c:\users\ncku\documents\visual studio 2015\Projects\Black Jack\Black Jack\obj\Debug\Black Jack.exe
+c:\users\ncku\documents\visual studio 2015\Projects\Black Jack\Black Jack\obj\Debug\Black Jack.pdb
+C:\Users\jorda\Documents\Visual Studio 2015\Projects\Black Jack\Black Jack\bin\Debug\Black Jack.exe.config
+C:\Users\jorda\Documents\Visual Studio 2015\Projects\Black Jack\Black Jack\obj\Debug\Black Jack.exe
+C:\Users\jorda\Documents\Visual Studio 2015\Projects\Black Jack\Black Jack\obj\Debug\Black Jack.pdb
+C:\Users\jorda\Documents\Visual Studio 2015\Projects\Black Jack\Black Jack\obj\Debug\Black Jack.csprojResolveAssemblyReference.cache
+C:\Users\jorda\Documents\Visual Studio 2015\Projects\Black Jack\Black Jack\obj\Debug\Black_Jack.Form1.resources
+C:\Users\jorda\Documents\Visual Studio 2015\Projects\Black Jack\Black Jack\obj\Debug\Black Jack.csproj.GenerateResource.Cache
+C:\Users\jorda\Documents\Visual Studio 2015\Projects\Black Jack\Black Jack\bin\Debug\Black Jack.exe
+C:\Users\jorda\Documents\Visual Studio 2015\Projects\Black Jack\Black Jack\bin\Debug\Black Jack.pdb
+C:\Users\jorda\Documents\Visual Studio 2015\Projects\Black Jack\Black Jack\bin\Debug\Resource.Designer.cs
+C:\Users\jorda\Documents\Visual Studio 2015\Projects\Black Jack\Black Jack\obj\Debug\Black_Jack.Properties.Resources.resources
+C:\Users\jorda\Documents\Visual Studio 2015\Projects\Black Jack\Black Jack\bin\Debug\Resource.resx
+C:\Users\jorda\Documents\Visual Studio 2015\Projects\Black Jack\Black Jack\obj\Debug\Black_Jack.Resource.resources
